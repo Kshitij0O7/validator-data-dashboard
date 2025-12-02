@@ -17,6 +17,9 @@ A powerful Next.js application for tracking and monitoring **Ethereum validator 
 
 ## 🚀 Getting Started
 
+### Final Output
+<img width="2940" height="1664" alt="image" src="https://github.com/user-attachments/assets/78e962d7-9be2-4721-a018-31573e018041" />
+
 ### Prerequisites
 
 - Node.js 18+ and npm/yarn/pnpm
